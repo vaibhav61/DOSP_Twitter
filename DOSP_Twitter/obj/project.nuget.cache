@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rxmoLM5ntr3sZKpXPQV6jNWSCHPKiiTKEEPteMT4CpBlrLUhWV7HtC4nvV+8u2oRB3yZ9Aaf7NP/iSLwEydf0A==",
+  "success": true,
+  "projectFilePath": "/Users/vaibhavmishra/general/DOSP_Twitter/DOSP_Twitter/DOSP_Twitter.fsproj",
+  "expectedPackageFiles": [
+    "/Users/vaibhavmishra/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
